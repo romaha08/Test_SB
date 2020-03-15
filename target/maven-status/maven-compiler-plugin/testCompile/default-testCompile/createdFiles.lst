@@ -1,0 +1,4 @@
+com\pages\CurrencyPage.class
+com\CurrencyPageTest.class
+com\TestBase.class
+com\elements\Table.class
